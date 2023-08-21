@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Open Source Hardware
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Colin
+    family-names: Keogh
+    email: colinkeogh@gmail.com
+    affiliation: UCD
+    orcid: 'https://orcid.org/0000-0002-4110-8232'
+    name-suffix: Phd
+abstract: Repository and framework for open source hardware
+keywords:
+  - Hardware
+  - Open Source
+version: V1
+date-released: '2023-06-01'
